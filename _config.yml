@@ -21,7 +21,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         "Rosario, Argentina"
 
 resume_header_contact_info:     "Rosario, Argentina • franmrivera@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "Backend developer with 7 years of experience.<br>Python, Django, APIS and some AWS/Linux/Devops (enough to survive).</p>"
 
