@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Mozio.com
+  position: Backend Developer + DevOps
+  duration: Jan, 2015 &mdash; Present
+  summary: <a href="https://www.mozio.com/">Mozio</a> is a <b>ground transportation search engine</b>, supporting B2B and B2C solutions. <ul class="resume-item-list"><li>Joined on the early years of the startup, where I worked heavily on <b>refactoring</b> and adding <b>new features</b> on the <b>API</b> to support the rapidly growing business/user base.</li><li>Integrated lot of <b>externals APIS</b> into our transaction flow, dealing with the constant issue of understanding the ad hoc solutions each provider took</b>.</li><li>Helped the business team by developing <b>ETL</b> pipelines in combination with <b>reporting tools</b>.</li><li>Actively worked on the migration of our monolith into a <b>microservice</b> architecture.</li><li>Shifted partially into a <b>DevOps</b> position to take care and improve all the <b>Amazon Web Service</b> infrastructure, including instances, databases, caches, CI/CD pipeline, among other things.</li><li>Worked of the server <b>security</b> aspects of the <b>PCI Compliance</b> standard.</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Globant
+  position: Python Developer
+  duration:  Jun, 2014 &mdash; Jan, 2015
+  summary: Worked as a contractor for <a href="https://yourshot.nationalgeographic.com/">Yourshot</a>. Yourshot is a <b>social network</b> from National Geographic for photographers. Focused only on the backend side, had to maintain and add new features to the <b>API</b>. The whole project was running on a modern architecture with a high traffic constraint, so <b>high performance</b> and <b>scalability</b> was key here.
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Educativa.com
+  position: Full-stack Developer
+  duration:  Feb, 2011  &mdash; Jan, 2013
+  summary: <a href="https://www.educativa.com/">Educativa</a> is an <b>e-learning</b> platform with 2 million active users mostly on Latam. It was also my first job experience. Worked on the whole aspects of the application. From CSS to SQL, passing through Perl and Javascript. Had to dealt with ton of legacy code on a complicated non well-defined architecture. Was painful but learned a lot.
