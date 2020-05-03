@@ -1,19 +1,50 @@
 # Jobs
 # VP of Global Communications
+- company: ShipHero
+  position: DevOps Engineer
+  duration: Oct, 2019 &mdash; Present
+  summary: <a href="https://www.shiphero.com/">ShipHero</a> is a platform focused on providing scaling eCommerce
+    businesses with a comprehensive <b>cloud based warehouse and order</b> management system.
+    <ul class="resume-item-list">
+      <li>Migrated hundred of snowflake servers and service configurations into an IaC approach using <b>Terraform</b>.</li>
+      <li>Contributed to the company by developing and setting tools to help on the monitoring, logging and debugging processes.</li>
+      <li>Worked heavily on automate the scaling up of the resources while attending an increase demand over our APIs, without losing a cost-effective focus.</li>
+      <li>And of course, at the front line attending fires! bringing key information and helping devs to figure out solutions.</li>
+    </ul>
+    <span>Python, Flask, MySql, AWS, Terraform, Docker.</span>
+
 - company: Mozio.com
   position: Backend Developer + DevOps
-  duration: Jan, 2015 &mdash; Present
-  summary: <a href="https://www.mozio.com/">Mozio</a> is a <b>ground transportation search engine</b>, supporting B2B and B2C solutions. <ul class="resume-item-list"><li>Joined on the early years of the startup, where I worked heavily on <b>refactoring</b> and adding <b>new features</b> on the <b>API</b> to support the rapidly growing business/user base.</li><li>Integrated lot of <b>externals APIS</b> into our transaction flow, dealing with the constant issue of understanding the ad hoc solutions each provider took</b>.</li><li>Helped the business team by developing <b>ETL</b> pipelines in combination with <b>reporting tools</b>.</li><li>Actively worked on the migration of our monolith into a <b>microservice</b> architecture.</li><li>Shifted partially into a <b>DevOps</b> position to take care and improve all the <b>Amazon Web Service</b> infrastructure, including instances, databases, caches, CI/CD pipeline, among other things.</li><li>Worked of the server <b>security</b> aspects of the <b>PCI Compliance</b> standard.</li></ul>
+  duration: Jan, 2015 &mdash; Sep, 2019
+  summary: <a href="https://www.mozio.com/">Mozio</a> is a <b>ground transportation search engine</b>, supporting B2B and B2C solutions.
+    <ul class="resume-item-list">
+      <li>Joined on the early years of the startup, where I worked heavily on <b>refactoring</b> and adding <b>new features</b> on the <b>API</b> to support the rapidly growing business/user base.</li>
+      <li>Integrated lot of <b>externals APIS</b> into our transaction flow, dealing with the constant issue of understanding the ad hoc solutions each provider took</b>.</li>
+      <li>Helped the business team by developing <b>ETL</b> pipelines in combination with <b>reporting tools</b>.</li><li>Actively worked on the migration of our monolith into a <b>microservice</b> architecture.</li>
+      <li>Shifted partially into a <b>DevOps</b> position to take care and improve all the <b>Amazon Web Service</b> infrastructure, including instances, databases, caches, CI/CD pipeline, among other things.</li>
+      <li>Worked of the server <b>security</b> aspects of the <b>PCI Compliance</b> standard.</li>
+    </ul>
+    <span>Python, Django, MySql, Postgresql, Celery, RabbitMQ, AWS, Docker, Redis, Chef, Jenkins.</span>
 
 # Director of Digital Stratgy
 - company: Globant
   position: Python Developer
   duration:  Jun, 2014 &mdash; Jan, 2015
-  summary: Worked as a contractor for <a href="https://yourshot.nationalgeographic.com/">Yourshot</a>. Yourshot is a <b>social network</b> from National Geographic for photographers. Focused only on the backend side, had to maintain and add new features to the <b>API</b>. The whole project was running on a modern architecture with a high traffic constraint, so <b>high performance</b> and <b>scalability</b> was key here.
+  summary: Worked as a contractor for <a href="https://yourshot.nationalgeographic.com/">Yourshot</a>.
+    Yourshot is a <b>social network</b> from National Geographic for photographers.
+    Focused only on the backend side, had to maintain and add new features to the <b>API</b>.
+    The whole project was running on a modern architecture with a high traffic constraint,
+    so <b>high performance</b> and <b>scalability</b> was key here.
+    <br><br>
+    <span>Python, Django, Postgresql, Celery, RabbitMQ, ElasticSearch.</span>
 
 
 # Communications Coordinator
 - company: Educativa.com
   position: Full-stack Developer
   duration:  Feb, 2011  &mdash; Jan, 2013
-  summary: <a href="https://www.educativa.com/">Educativa</a> is an <b>e-learning</b> platform with 2 million active users mostly on Latam. It was also my first job experience. Worked on the whole aspects of the application. From CSS to SQL, passing through Perl and Javascript. Had to dealt with ton of legacy code on a complicated non well-defined architecture. Was painful but learned a lot.
+  summary: <a href="https://www.educativa.com/">Educativa</a> is an <b>e-learning</b> platform with 2 million active users mostly on Latam.
+    It was also my first job experience. Worked on the whole aspects of the application. From CSS to SQL, passing through Perl and Javascript.
+    Had to dealt with ton of legacy code on a complicated non well-defined architecture. Was painful but learned a lot.
+    <br><br>
+    <span>Perl, Javascript, MySql.</span>
